@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958875123722",
+    "project_id": "chatbot-8b079",
+    "storage_bucket": "chatbot-8b079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958875123722:android:107329e4675682141b9ff3",
+        "android_client_info": {
+          "package_name": "Mujtaba.chatBot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958875123722-sc5693523r60kkglecb2j7tu1idj1c9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zJWu8VM741WvGOHY4erTG2o7hJ6vU8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958875123722-sc5693523r60kkglecb2j7tu1idj1c9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
